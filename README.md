@@ -7,7 +7,7 @@ Desarrolla una app de productos utilizando Java y una base de datos en memoria. 
 + La aplicación debe estar lista para ejecutar y hacer peticiones desde postman.
  
 # **Funcionalidades requeridas:**
-- Crear un producto con los siguientes campos: nombre, descripción, precio, cantidad.
++ Crear un producto con los siguientes campos: nombre, descripción, precio, cantidad.
 + Actualizar un producto existente.
 + Consultar un producto por ID o por nombre.
 + Eliminar un producto existente.
@@ -15,7 +15,7 @@ Desarrolla una app de productos utilizando Java y una base de datos en memoria. 
 + Consultar todos los productos ordenados por precio.
 #
   
-La solución debe incluir el código fuente completo, documentación detallada sobre cómo ejecutar y probar el sistema, y cualquier otra información adicional que el candidato considere relevante.
++ La solución debe incluir el código fuente completo, documentación detallada sobre cómo ejecutar y probar el sistema, y cualquier otra información adicional que el candidato considere relevante.
 
-El entregable deberá ser la URL de un repositorio Git público para que podamos descargar directamente.
++ El entregable deberá ser la URL de un repositorio Git público para que podamos descargar directamente.
 
