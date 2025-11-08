@@ -1,7 +1,6 @@
 # **Ejercicio postulación Paygoal**
 Desarrolla una app de productos utilizando Java y una base de datos en memoria. La app debe permitir crear, actualizar, consultar y eliminar productos a través de endpoints.
-#
-- Requisitos técnicos:
+# **Requisitos técnicos:**
 * Utilizar Java 11.
 + Utilizar Spring Framework.
 + Utilizar una base de datos en memoria(por ejemplo, HSQLDB, H2 Database, etc).
@@ -15,7 +14,7 @@ Desarrolla una app de productos utilizando Java y una base de datos en memoria. 
 + Funcionales adicionales: 
 + Consultar todos los productos ordenados por precio.
   
-# La solución debe incluir el código fuente completo, documentación detallada sobre cómo ejecutar y probar el sistema, y cualquier otra información adicional que el candidato considere relevante.
+La solución debe incluir el código fuente completo, documentación detallada sobre cómo ejecutar y probar el sistema, y cualquier otra información adicional que el candidato considere relevante.
 
-# El entregable deberá ser la URL de un repositorio Git público para que podamos descargar directamente.
+El entregable deberá ser la URL de un repositorio Git público para que podamos descargar directamente.
 
