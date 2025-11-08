@@ -1,4 +1,6 @@
+#**Ejercicio postulación Paygoal**
 Desarrolla una app de productos utilizando Java y una base de datos en memoria. La app debe permitir crear, actualizar, consultar y eliminar productos a través de endpoints.
+#
 Requisitos técnicos:
 Utilizar Java 11.
 Utilizar Spring Framework.
